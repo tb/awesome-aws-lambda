@@ -72,6 +72,7 @@
   * [Tutorial: AWS API Gateway to Lambda to DynamoDB](https://snowulf.com/2015/08/05/tutorial-aws-api-gateway-to-lambda-to-dynamodb/)
   * [How To Build An API In 10 Minutes](http://readwrite.com/2015/11/16/how-to-build-an-api-amazon-lambda)
   * [Best Practices – AWS Lambda Function](https://cloudncode.blog/2017/03/02/best-practices-aws-lambda-function/)
+  * [AWS Lambda in GoLang - The Ultimate Guide](https://www.softkraft.co/aws-lambda-in-golang/)
 
 ### Boilerplate
   * [**lambda-scaffold** - How we have standardised CI-deployable AWS lambda functions.](https://github.com/simplemerchant/lambda-scaffold)
